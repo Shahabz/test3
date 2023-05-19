@@ -1,0 +1,46 @@
+{
+  "data":[{
+    "Prize_Title": "James black",
+    "Prize_Amount": "Macbook_1",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [11,22,22,33,44,55]
+},
+{
+    "Prize_Title": "john",
+    "Prize_Amount": "Macbook_2",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [11,22,66,33,44,55]
+},
+{
+    "Prize_Title": "janifer",
+    "Prize_Amount": "Macbook_3",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [21,22,22,33,44,55]
+  
+},
+{
+    "Prize_Title": "harish kumar",
+    "Prize_Amount": "Macbook_4",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [23,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Ajay malhi",
+    "Prize_Amount": "Tablet",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [15,22,22,33,44,55]
+},
+{
+    "Prize_Title": "Shahbaz",
+    "Prize_Amount": "Gold_1",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [44,22,22,33,44,55]
+},
+{
+    "Prize_Title": "halin",
+    "Prize_Amount": "Gold_2",
+    "Prize_Ticket_Number": "112222334455",
+    "SlotsValues": [25,22,22,33,44,55]
+}
+]
+}
